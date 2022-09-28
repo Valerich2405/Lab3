@@ -1,0 +1,14 @@
+C:\Users\Omen\Documents\Lab3\Point and Figure\Point and Figure\bin\Debug\netcoreapp3.1\Point and Figure.exe
+C:\Users\Omen\Documents\Lab3\Point and Figure\Point and Figure\bin\Debug\netcoreapp3.1\Point and Figure.deps.json
+C:\Users\Omen\Documents\Lab3\Point and Figure\Point and Figure\bin\Debug\netcoreapp3.1\Point and Figure.runtimeconfig.json
+C:\Users\Omen\Documents\Lab3\Point and Figure\Point and Figure\bin\Debug\netcoreapp3.1\Point and Figure.runtimeconfig.dev.json
+C:\Users\Omen\Documents\Lab3\Point and Figure\Point and Figure\bin\Debug\netcoreapp3.1\Point and Figure.dll
+C:\Users\Omen\Documents\Lab3\Point and Figure\Point and Figure\bin\Debug\netcoreapp3.1\Point and Figure.pdb
+C:\Users\Omen\Documents\Lab3\Point and Figure\Point and Figure\obj\Debug\netcoreapp3.1\Point and Figure.csproj.AssemblyReference.cache
+C:\Users\Omen\Documents\Lab3\Point and Figure\Point and Figure\obj\Debug\netcoreapp3.1\Point and Figure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Documents\Lab3\Point and Figure\Point and Figure\obj\Debug\netcoreapp3.1\Point and Figure.AssemblyInfoInputs.cache
+C:\Users\Omen\Documents\Lab3\Point and Figure\Point and Figure\obj\Debug\netcoreapp3.1\Point and Figure.AssemblyInfo.cs
+C:\Users\Omen\Documents\Lab3\Point and Figure\Point and Figure\obj\Debug\netcoreapp3.1\Point and Figure.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Lab3\Point and Figure\Point and Figure\obj\Debug\netcoreapp3.1\Point and Figure.dll
+C:\Users\Omen\Documents\Lab3\Point and Figure\Point and Figure\obj\Debug\netcoreapp3.1\Point and Figure.pdb
+C:\Users\Omen\Documents\Lab3\Point and Figure\Point and Figure\obj\Debug\netcoreapp3.1\Point and Figure.genruntimeconfig.cache
