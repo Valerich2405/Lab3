@@ -1,0 +1,14 @@
+C:\Users\Omen\Documents\Lab3\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.exe
+C:\Users\Omen\Documents\Lab3\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.deps.json
+C:\Users\Omen\Documents\Lab3\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.runtimeconfig.json
+C:\Users\Omen\Documents\Lab3\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.runtimeconfig.dev.json
+C:\Users\Omen\Documents\Lab3\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.dll
+C:\Users\Omen\Documents\Lab3\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.pdb
+C:\Users\Omen\Documents\Lab3\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.csproj.AssemblyReference.cache
+C:\Users\Omen\Documents\Lab3\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Documents\Lab3\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.AssemblyInfoInputs.cache
+C:\Users\Omen\Documents\Lab3\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.AssemblyInfo.cs
+C:\Users\Omen\Documents\Lab3\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Lab3\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.dll
+C:\Users\Omen\Documents\Lab3\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.pdb
+C:\Users\Omen\Documents\Lab3\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.genruntimeconfig.cache
